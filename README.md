@@ -29,13 +29,6 @@ If the default model fails, you can switch to smaller or licensed models like:
 
 meta-llama/Llama-3.2-3B-Instruct (license required)
 
-🗂 Project Structure
-.
-├── main.py        # Main application logic
-├── prompt.py      # System prompt configuration
-├── .env           # Environment variables (not committed)
-└── README.md
-
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/your-repo-name.git
